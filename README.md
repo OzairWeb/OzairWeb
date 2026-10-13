@@ -1,4 +1,6 @@
-# Ozairwebs
+<img src="ozairwebs-logo.svg" alt="OzairWebs logo" width="64" height="64">
+
+# OzairWebs
 
 ### Websites, commerce and software built around the way your business works.
 
