@@ -55,6 +55,8 @@ The links below lead to our published case studies. They describe the projects a
 - **[Concrete calculator](https://github.com/OzairWeb/concrete-calculator):** a browser-based material estimator with volume and dimension inputs, metric and imperial units, and documented mix assumptions.
 - **[Brick wall calculator](https://github.com/OzairWeb/brick-wall-calculator):** an estimate of bricks, mortar materials and selected costs, with opening deductions and a consistent calculation across unit systems.
 
+**Try the tools:** [Concrete calculator](https://ozairweb.github.io/concrete-calculator/) · [Brick wall calculator](https://ozairweb.github.io/brick-wall-calculator/)
+
 These small HTML, CSS and JavaScript projects show practical interface work. Their READMEs explain how to run them, reproduce an example and understand the limits of the estimates.
 
 ## How a project moves forward
